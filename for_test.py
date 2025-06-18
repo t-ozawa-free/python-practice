@@ -10,4 +10,4 @@ print(total)
 
 for k in range(10):
     for l in range(10):
-        print(k, "×", l ,"=", k*l)
+        print(k, "×", l ,"＝", k*l)
